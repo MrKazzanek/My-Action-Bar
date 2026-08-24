@@ -193,6 +193,11 @@ All commands follow the same toggle/set pattern:
 
 ## Credits
 
+This project is licensed under CC BY 4.0.
+
+If you redistribute this datapack or publish a modified version,
+please credit the original author:
+
 **Creator:** [MrKazanek](https://kazanek.bio.link/)
 
 Thank you to everyone who supported this project! ❤️
