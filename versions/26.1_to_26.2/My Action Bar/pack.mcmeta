@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": {
+      "text": "Shows customizable information on the Action Bar",
+      "color": "#fff04d",
+      "shadow_color": 16756224,
+      "bold": false,
+      "hover_event": {
+        "action": "show_text",
+        "value": {
+          "text": "By MrKazanek | v.1.3",
+          "color": "gold"
+        }
+      }
+    },
+    "min_format": 101,
+    "max_format": 999
+  }
+}
