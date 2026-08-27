@@ -1,0 +1,1 @@
+- World directions are no longer written in ALL CAPS.
